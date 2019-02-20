@@ -1,6 +1,6 @@
 # devrel.hive Code of Conduct
 
-**devrel.hive** is a open-source community dedicated to all people that are driven by willingness to build great relations with developers community in order to create the best developer-friendly tools and environment. 
+**devrel.hive** is a open community dedicated to all people that are driven by willingness to build great relations with developers community in order to create the best developer-friendly tools and environment. 
 
 We value the participation of each member of the devrel community and want all attendees to have an enjoyable and fulfilling experience here. Hence, all community users are expected to show respect and courtesy to others throughout any kind of community activity.
 
