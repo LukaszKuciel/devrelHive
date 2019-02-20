@@ -2,7 +2,7 @@
 
 ## 🐝 What is devrel.hive?
 
-**devrel.hive** is a open community dedicated to all people that are driven by willingness to build great relations with developers community in order to create the best developer-friendly tools and environment. 
+**devrel.hive** is a open community for all people creating and taking care of tech products, driven by willingness to build great relations with its' community.
 
 ## 🙇 Why are we here?
 
