@@ -1,5 +1,9 @@
 # devrel.hive
 
+<p align="center"> 
+<img src="./readme_images/devrelhive.png">
+</p>
+
 ## 🐝 What is devrel.hive?
 
 **devrel.hive** is a open community for all people creating and taking care of tech products, driven by willingness to build great relations with its' community.
